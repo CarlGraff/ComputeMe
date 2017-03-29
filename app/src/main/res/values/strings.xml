@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComputeMe</string>
+    <string name="get_compute_value">enter-number</string>
+    <string name="button_action">Compute</string>
+</resources>
